@@ -4,7 +4,7 @@
 
 ## Live Demo
 
-**Try it live:** https://nlp-sentiment-analysis-tfidf-abc123.streamlit.app
+**Try it live:** https://nlp-sentimental-analysis-nw83fekegjmwpef5tunj5m.streamlit.app/
 
 Or run locally:
 ```

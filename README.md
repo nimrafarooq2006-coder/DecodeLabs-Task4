@@ -4,8 +4,12 @@
 
 ## Live Demo
 
-Run `streamlit run streamlit_app.py` to launch an interactive dashboard where you can type any review and see it classified as Positive or Negative in real time, using the saved `sentiment_analysis_best_model.joblib` pipeline.
+**Try it live:** https://nlp-sentiment-analysis-tfidf-abc123.streamlit.app
 
+Or run locally:
+```
+Run `streamlit run streamlit_app.py` to launch an interactive dashboard where you can type any review and see it classified as Positive or Negative in real time, using the saved `sentiment_analysis_best_model.joblib` pipeline.
+```
 ## Overview
 
 An NLP project that builds a full text pre-processing and classification pipeline to predict whether a review is Positive or Negative — converting unstructured human language into mathematical arrays via TF-IDF, then training and comparing a Naive Bayes and an SVM classifier.
